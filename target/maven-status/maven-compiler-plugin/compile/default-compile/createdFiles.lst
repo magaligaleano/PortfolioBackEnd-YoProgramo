@@ -12,6 +12,7 @@ com\portfolio\mg\Dto\dtoEducacion.class
 com\portfolio\mg\Repository\IProyectoRepository.class
 com\portfolio\mg\Security\Dto\JwtDto.class
 com\portfolio\mg\Security\Repository\IUsuarioRepository.class
+com\portfolio\mg\WebConfig.class
 com\portfolio\mg\Controller\EducacionController.class
 com\portfolio\mg\Controller\PersonaController.class
 com\portfolio\mg\Controller\AptitudController.class
