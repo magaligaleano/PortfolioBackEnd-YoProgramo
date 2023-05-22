@@ -1,45 +1,45 @@
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\AptitudController.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Persona.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Enums\RolNombre.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\SContacto.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Dto\dtoProyecto.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Aptitud.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IProyectoRepository.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Service\UsuarioService.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Proyecto.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IEducacionRepository.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\EducacionController.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Educacion.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Dto\dtoEducacion.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IContactoRepository.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Entity\Rol.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Service\UserDetailsImpl.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Dto\LoginUsuario.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\MgApplication.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\ImpPersonaService.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\jwt\JwtTokenFilter.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Controller\AuthController.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\SProyecto.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\PersonaController.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Dto\JwtDto.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Controller\Mensaje.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Entity\Usuario.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\jwt\JwtEntryPoint.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Entity\UsuarioPrincipal.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Dto\dtoAptitud.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\SAptitud.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\ProyectoController.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Interface\IPersonaService.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Dto\dtoContacto.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Repository\IUsuarioRepository.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\ContactoController.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IPersonaRepository.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\SEducacion.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\WebConfig.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Repository\IRolRepository.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Dto\NuevoUsuario.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\jwt\JwtProvider.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\MainSecurity.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Service\RolService.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Contacto.java
-C:\Users\Mogul\OneDrive\Escritorio\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IAptitudRepository.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Proyecto.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\SAptitud.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Controller\AuthController.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Dto\dtoContacto.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Interface\IPersonaService.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IContactoRepository.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Dto\JwtDto.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Dto\LoginUsuario.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\PersonaController.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\AptitudController.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\MainSecurity.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Repository\IUsuarioRepository.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\ImpPersonaService.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\jwt\JwtTokenFilter.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Service\UserDetailsImpl.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Repository\IRolRepository.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Entity\Usuario.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\SProyecto.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\EducacionController.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\MgApplication.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Controller\Mensaje.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Enums\RolNombre.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\jwt\JwtProvider.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Entity\Rol.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Educacion.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Dto\dtoProyecto.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Dto\dtoEducacion.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\WebConfig.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Entity\UsuarioPrincipal.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\jwt\JwtEntryPoint.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Contacto.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Service\UsuarioService.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IEducacionRepository.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IPersonaRepository.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Dto\NuevoUsuario.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\SEducacion.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\ProyectoController.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IAptitudRepository.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Persona.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Service\SContacto.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Controller\ContactoController.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Security\Service\RolService.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Entity\Aptitud.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Repository\IProyectoRepository.java
+C:\Users\Mogul\OneDrive\Escritorio\cursos dw\mi-portfolio\PortafolioBackEnd\mg\src\main\java\com\portfolio\mg\Dto\dtoAptitud.java
