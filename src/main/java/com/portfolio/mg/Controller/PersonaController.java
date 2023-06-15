@@ -29,19 +29,24 @@ public class PersonaController {
         return ipersonaService.getPersona();
     }
     
-@PreAuthorize("hasRole('ADMIN')")
+    @GetMapping("/saludar")
+    public String Saludar(){
+        return "Hola";
+    }
+    
+/*@PreAuthorize("hasRole('ADMIN')")*/
 @PostMapping("/crear")
 public String createPersona(@RequestBody Persona persona){
     ipersonaService.savePersona(persona);
     return "La persona fue creada correctamente";
 }
-@PreAuthorize("hasRole('ADMIN')")
+/*@PreAuthorize("hasRole('ADMIN')")*/
 @DeleteMapping ("/borrar/{id}")
 public String deletePersona(@PathVariable long id){
     ipersonaService.deletePersona(id);
     return "La persona fue eliminada correctamente";
 }
-@PreAuthorize("hasRole('ADMIN')")
+/*@PreAuthorize("hasRole('ADMIN')")*/
 @PutMapping("/editar/{id}")
 public Persona editPersona(@PathVariable long id,
                            @RequestParam("nombre") String nuevoNombre,
